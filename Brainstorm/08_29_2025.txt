@@ -1,0 +1,5 @@
+1. Academic Tool / Academic Research to benchmark against(good to have for a good defense)
+2. Stick with Java
+1. Approach: code smell: static analysis + dynamic analysis [paper research]-> example of academic tool. Can I build on this tool to my own tool?
+Ground Rules Defined for my LLM? How are they defined? How are they better than SonarQube defined rules?
+How to reduce false positives? What is the approach? What rules and data do I need to trian my LLM on?
